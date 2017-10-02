@@ -68,7 +68,7 @@ function popLightBox(currentIndex, currentObject){
 
   lightBoxClose.addEventListener('click', closeLightbox, false);
 }
-
+console.log("lol");
 function closeLightbox() {
   // reset everything
   // debugger;
