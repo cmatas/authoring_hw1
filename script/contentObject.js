@@ -6,7 +6,20 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-				"spring_2.jpg"
+				"spring_2.jpg",
+				"spring_3.jpg",
+				"spring_4.jpg",
+				"spring_5.jpg",
+				"spring_6.jpg"
+			],
+
+			imageDescription : [
+				"A bunch of butterflies just doing their thing",
+				"a chicken relaxing",
+				"Road through sakura trees",
+				"Beautiful field of lavender",
+				"Sakura with ray of light going through",
+				"White magical tree"
 			]
 		},
 
@@ -17,7 +30,20 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
-				"summer_2.jpg"
+				"summer_2.jpg",
+				"summer_3.jpg",
+				"summer_4.jpg",
+				"summer_5.jpg",
+				"summer_6.jpg",
+			],
+
+			imageDescription : [
+				"Colorful chairs by the beach",
+				"Puppy chilling in a hamoc",
+				"Deck in the beach",
+				"Watermelon lollipops! Delicious",
+				"A fantastic caribean beach",
+				"The ferris wheel is gonna be cool"
 			]
 		},
 
@@ -28,7 +54,20 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
-				"autumn_2.jpg"
+				"autumn_2.jpg",
+				"autumn_3.jpg",
+				"autumn_4.jpg",
+				"autumn_5.jpg",
+				"autumn_6.jpg"
+			],
+
+			imageDescription : [
+				"A falling forest",
+				"Pumpkins and sunflowers? Nice",
+				"Falling landscape",
+				"Delicious Pumpkin Spice Latte",
+				"This is Halloween! With Jack-o-Lantern",
+				"Falling bridge in the forest"
 			]
 		},
 
@@ -39,7 +78,20 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
-				"winter_2.jpg"
+				"winter_2.jpg",
+				"winter_3.jpg",
+				"winter_4.jpg",
+				"winter_5.jpg",
+				"winter_6.jpg"
+			],
+
+			imageDescription : [
+				"Light running through the woods",
+				"Snowman enjoying life",
+				"Frozen river in the snow",
+				"Creepy snowy forest",
+				"Horse running through the snow",
+				"Starry sky"
 			]
 		}
 	};
